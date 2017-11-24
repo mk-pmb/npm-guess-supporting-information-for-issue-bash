@@ -1,0 +1,29 @@
+{ "name": "npm-guess-supporting-information-for-issue",
+  "version": "1.0.0",
+  "description": "Answer the \"supporting information\" questionnaire for new npm bug reports.",
+  "keywords": [
+    "npm",
+    "issue template",
+    "bug report",
+    "questionnaire"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/npm-guess-supporting-information-for-issue-bash/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/npm-guess-supporting-information-for-issue-bash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/npm-guess-supporting-information-for-issue-bash/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "siq.js",
+  "bin": "siq.sh",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
