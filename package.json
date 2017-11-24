@@ -1,5 +1,5 @@
 { "name": "npm-guess-supporting-information-for-issue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Answer the \"supporting information\" questionnaire for new npm bug reports.",
   "keywords": [
     "npm",

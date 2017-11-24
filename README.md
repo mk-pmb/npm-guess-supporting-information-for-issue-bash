@@ -26,9 +26,9 @@ where your config should be and which variables are missing.
 Usage
 -----
 
-<!--#include file="tmp.howto.txt" code="bash" -->
+<!--#include file="tmp.howto.txt" code="text" -->
 <!--#verbatim lncnt="19" -->
-```bash
+```text
 $ npm-guess-supporting-information-for-issue
  - `npm -v` prints: 5.5.1
  - `node -v` prints: v6.12.0
